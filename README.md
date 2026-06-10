@@ -33,7 +33,7 @@ A lightweight REST API built with **FastAPI** that lets you fetch complete MetaT
 **1. Clone or download this repository**
 
 ```bash
-git clone <git@github.com:William9701/Meta-Script.git>
+git clone git@github.com:William9701/Meta-Script.git
 cd Meta-Script
 ```
 
